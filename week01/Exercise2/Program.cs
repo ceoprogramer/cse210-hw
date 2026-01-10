@@ -1,3 +1,4 @@
+// Exercise 2: Write a program that asks the user for their grade percentage and then displays their letter grade (A, B, C, D, or F). Additionally, inform the user if they have passed or failed the course (passing is 70% and above).
 using System;
 
 class Program

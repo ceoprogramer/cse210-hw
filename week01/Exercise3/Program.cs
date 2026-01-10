@@ -1,3 +1,4 @@
+// Exercise 3: Write a program that generates a random "magic number" between 1 and 100. The user should guess the number, and the program should provide feedback on whether the guess is too high, too low, or correct. The program should continue to prompt the user until they guess the correct number.
 using System;
 
 class Program

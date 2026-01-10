@@ -1,3 +1,4 @@
+// Exercise 4: Write a program that allows the user to enter a series of numbers (one at a time) until they enter 0. Afterward, the program should display the sum, average, and maximum of the entered numbers (excluding the terminating 0).
 using System;
 
 class Program
