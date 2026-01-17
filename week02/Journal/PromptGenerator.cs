@@ -8,7 +8,7 @@ public class PromptGenerator
             "What was the best part of your day?",
             "What are you grateful for today?",
             "Describe a challenge you faced recently.",
-            "What is a goal you have for the next month?",
+            "What did you do to help someone today?",
             "Write about someone who inspires you today."
         };
 
