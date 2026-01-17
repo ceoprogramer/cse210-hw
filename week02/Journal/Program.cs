@@ -1,5 +1,5 @@
 //Alumn: Fabiola Sánchez
-using System;
+// My Program for Journal Application saves and loads entries from a file and allows the user to save csv files and open in excel.
 
 class Program
 {
