@@ -6,6 +6,10 @@ public class Entry
 
     public void Display()
     {
+        Console.WriteLine($"Date: {_date}");
+        Console.WriteLine($"Prompt: {_promptText}");
+        Console.WriteLine($"Entry: {_entryText}");
+        Console.WriteLine();
         
     }
 }
