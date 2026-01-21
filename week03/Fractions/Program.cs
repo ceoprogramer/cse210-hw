@@ -1,3 +1,5 @@
+// Student: Fabiola Sánchez
+//This program show principle of encapsulation by creating classes to hold a fraction, such as 2/3, a fraction has a top number (numerator) and a bottom number (denominator). The fraction can be expressed as two integers with a slash between them, such as 3/4 or as a decimal, such as 0.75.
 using System;
 
 class Program
