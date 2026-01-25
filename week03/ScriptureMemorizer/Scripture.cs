@@ -21,7 +21,7 @@ public class Scripture
     {
         Random random = new Random();
         
-        // Filter list to find only words that are NOT hidden yet (Stretch Challenge)
+        // Filter list to find only words that are NOT hidden yet 
         List<Word> visibleWords = _words.Where(w => !w.IsHidden()).ToList();
 
         if (visibleWords.Count == 0) return;
