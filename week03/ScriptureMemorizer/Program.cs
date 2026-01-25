@@ -1,6 +1,9 @@
+
+// scripture memorization program
+//--- Main Program Class ---
+//--- Alumn: Fabiola Sánchez 
 using System;
 
-// --- Main Program Class ---
 class Program
 {
     static void Main(string[] args)
