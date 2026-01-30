@@ -1,18 +1,18 @@
 using System;
 public class Video
     {
-        public string Title { get; set; }
-        public string Author { get; set; }
-        public int LengthInSeconds { get; set; }
+        public string _title;
+        public string _author;
+        public int _lengthInSeconds;
         
         // Lista interna de comentarios (Encapsulada)
         private List<Comment> _comments = new List<Comment>();
 
         public Video(string title, string author, int length)
         {
-            Title = title;
-            Author = author;
-            LengthInSeconds = length;
+            _title = title;
+            _author = author;
+            _lengthInSeconds = length;
         }
 
         public void AddComment(Comment comment)
