@@ -5,7 +5,7 @@ public class Video
         public string _author;
         public int _lengthInSeconds;
         
-        // Lista interna de comentarios (Encapsulada)
+        // Comment List (Encapsulate)
         private List<Comment> _comments = new List<Comment>();
 
         public Video(string title, string author, int length)
