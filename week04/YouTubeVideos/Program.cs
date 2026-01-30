@@ -41,7 +41,7 @@ class Program
 
                 foreach (var comment in video.GetComments())
                 {
-                    Console.WriteLine($"- {comment.Name}: \"{comment.Text}\"");
+                    Console.WriteLine($"- {comment._name}: \"{comment._text}\"");
                 }
             }
             Console.WriteLine("--------------------------------------------------");
