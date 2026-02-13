@@ -20,8 +20,6 @@ class Program
         {
             
             string color = s.GetColor();
-
-            
             double area = s.GetArea();
 
             Console.WriteLine($"The {color} shape has an area of {area}.");
