@@ -1,3 +1,4 @@
+//Alumn: Fabiola Sánchez
 // This is the main entry point for the EternalQuest project.
 // Using polymorphism, inheritance and encapsulation
 //This program keeps track of various kinds of goals that people have, which are goals in their real life
